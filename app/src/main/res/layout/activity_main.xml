@@ -22,7 +22,7 @@
         <EditText
             android:id="@+id/et_666"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="wrap_content"
             android:layout_below="@+id/aaaaa"
             android:layout_margin="20dp"
             android:hint=".."
@@ -42,7 +42,7 @@
         <EditText
             android:id="@+id/et_777"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="wrap_content"
             android:layout_below="@+id/bbbbb"
             android:layout_margin="20dp"
             android:hint=".."
@@ -61,7 +61,7 @@
         <EditText
             android:id="@+id/et_888"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="wrap_content"
             android:layout_below="@+id/ccccc"
             android:layout_margin="20dp"
             android:hint=".."
@@ -70,7 +70,7 @@
         <Button
             android:id="@+id/bt_start"
             android:layout_width="match_parent"
-            android:layout_height="28dp"
+            android:layout_height="wrap_content"
             android:layout_below="@+id/et_888"
             android:layout_margin="50dp"
             android:gravity="center"
